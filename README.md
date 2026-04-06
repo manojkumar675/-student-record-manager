@@ -33,9 +33,6 @@ cd frontend
 npm install
 npm start
 
-## 📸 Screenshots
-_Coming soon_
-
 ## 👨‍💻 Author
 **Pola Manoj Kumar**  
 [LinkedIn](https://www.linkedin.com/in/pola-manoj-kumar-30b528306) | 
